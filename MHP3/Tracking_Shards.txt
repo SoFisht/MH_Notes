@@ -1,0 +1,27 @@
+Ancient Shard:
+- Bow: 
+- LBG: 
+- HBG: 
+- SnS: 
+- SwA: 
+-  LS: 
+-  GS: X
+- Ham: X
+- Lan: X
+-  GL: 
+-  DB: X
+-  HH: X
+
+Rust Shard:
+- Bow: 
+- LBG: X
+- HBG: 
+- SnS: 
+- SwA: 
+-  LS: 
+-  GS: X
+- Ham: 
+- Lan: 
+-  GL: 
+-  DB: 
+-  HH: 
