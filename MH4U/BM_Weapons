@@ -2,31 +2,70 @@ Key:
 
 ------------------------------------------------
 
-[CB] Charge Blade
-[L.CB]
-- Fire:    Axelion Blade (Rathalos)
-- Water:   None/Permanence (D.Mohran)
-- Ice:     None/Guardsqual+ (Zamtrios)
-- Thunder: None
-- Dragon:  Leidenskraft (G.Magala)
-- Blast:   None/Dios Strongarm (Brachydios)
-- Status:  None
-[H.CB]               
-- Fire:    Hellspawn Blade (S.Rathalos)
-- Water:   Deceades (Caedeus)
-- Ice:     None/Daora's Casca (Kushala)
-- Thunder: None/Noblest of Lieges (Rajang)
-- Dragon:  L'Oppresseur (S.Magala)
-- Blast:   Teostra's Striker (Teostra)
-- Status:  None
-[G.CB]       
-- Fire:    Propensity (S.Rathalos)
-- Water:   Ceadeus Regalia (Caedeus)
-- Ice:     Eldaora Casca (R.Kushala)
-- Thunder: Demonlord Supersurge (Rajang)
-- Dragon:  Le Salut (S.Magala)
-- Blast:   True Ruiner Reaver (Fatalis)
-- Status:  Chernobog's Scythe (S.Nerscylla)
+[GS] Great Sword
+[L.GS]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[H.GS]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+           
+[G.GS]     
+- Raw:     Cera Cymmetry (Diablos)
+           Rogue Sedition (Seregios)
+- Fire:    Rathlord Gleamsword (S.Rathalos)
+- Water:   Plesioth Pelagis (G.Plesioth)
+- Ice:     Ukanlos Skycleaver (Ukanlos)
+           Eldaora's Death (R.Kushala)
+- Thunder: Demonlord Rod (Rajang)
+- Dragon:  Black Fatalis Blade (Fatalis)
+- Blast:   Teostra del Sol (Teostra)
+           {A} Deified Grisblade (M.Tigrex)
+- Status:  Grand Shamshir (Chameleos)
+           Ostracon Oblivion (Gogmazios)
+
+------------------------------------------------
+
+[LS] Long Sword
+[L.LS]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[H.LS]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[G.LS]
+- Fire:    
+- Water:   Alphard (T.Najarala)
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  Garuga Daito (Y.Garuga)
+           Dragonwood Cutblade (Yama)
+           Headsman's Requite (Gogmazios)
 
 ------------------------------------------------
 
@@ -61,3 +100,262 @@ Key:
 - Status:  Kyrie Ruin (Gogmazios)
            Coctura Balgang (Gobul)       
            Lunatic Rose (G.Rathan)
+
+------------------------------------------------
+
+[DB] Dual Blades
+[L.DB]        
+- Fire:    Twin Flames (Rathalos/Rathian)
+- Water:   Cleaving Jaws+ (Zamtrios)
+           Whirlitorture (Seltas)
+- Ice:     Cleaving Jaws+ (Zamtrios)
+- Thunder: Usurper's Fulgur (Zinogre)
+           Monarch (Kirin)
+- Dragon:  None
+- Blast:   None
+- Status:  None
+            
+[H.DB]      
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+           
+[G.DB]     
+- Fire:    Wyvern Conciliation (S.Los/G.Ian)
+           Megiddo Breakers (B.Gravios)
+           Agnaktor Inferno (Agnaktor)
+- Water:   Blizztrios Fangs (Zamtrios)
+           Crossenders (D.Seltas)
+           Jade Battlefanzers (G.Plesioth)
+- Ice:     Blizztrios Fangs (Zamtrios)
+           Ritual Eidolons (Kirin/Yama)
+           Ukanlos Skyrippers (Ukanlos)
+           Blizzard & Blaze (Kushala/Teostra)
+- Thunder: Stygian Superbia (S.Zinogre)
+           Ultimus Apocalypse (W.Fatalis)
+           Wunderkirins (Kirin)
+           Suzuka Otakemaru (Rajang)
+- Dragon:  Stygian Superbia (S.Zinogre)
+           Ultimus Apocalypse (W.Fatalis)
+           Twinbane Twilight (Fatalis)
+- Blast:   Twinbane Twilight (Fatalis)
+           Blizzard & Blaze (Kushala/Teostra)
+- Status:  Ritual Eidolons (Kirin/Yama)
+           Jade Battlefanzers (G.Plesioth)
+
+------------------------------------------------
+
+[HAM] Hammer
+[L.HAM]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[H.HAM]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[G.HAM]
+- Raw:     Qadar Sedition (Seregios)
+- Fire:    Fatalis Iregard (C.Fatalis)
+- Water:   Nadeshiko (D.Mohran)
+- Ice:     Ukanlos Skysmasher (Ukanlos)
+- Thunder: Demonlord Hammer (Rajang)
+- Dragon:  Vergehen/Naissance (C.Magala)
+           Fatalis Ruiner (W.Fatalis)
+- Blast:   Lightbreak Hammer (Brachydios)
+- Status:  Desmos Admonition (Gogmazios)
+           Genie's Expanse (Chameleos)      
+
+------------------------------------------------
+
+[HH] Hunting Horn
+[L.HH]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[H.HH]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[G.HH]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+------------------------------------------------
+
+[LAN] Lance
+[L.LAN]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[H.LAN]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[G.LAN]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+------------------------------------------------
+
+[GL] Gunlance
+[L.GL]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[H.GL]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[G.GL]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+------------------------------------------------
+
+[HAM] Switch Axe
+[L.SWA]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[H.SWA]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[G.SWA]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+------------------------------------------------
+
+[CB] Charge Blade
+[L.CB]
+- Fire:    Axelion Blade (Rathalos)
+- Water:   None/Permanence (D.Mohran)
+- Ice:     None/Guardsqual+ (Zamtrios)
+- Thunder: None
+- Dragon:  Leidenskraft (G.Magala)
+- Blast:   None/Dios Strongarm (Brachydios)
+- Status:  None
+[H.CB]               
+- Fire:    Hellspawn Blade (S.Rathalos)
+- Water:   Deceades (Caedeus)
+- Ice:     None/Daora's Casca (Kushala)
+- Thunder: None/Noblest of Lieges (Rajang)
+- Dragon:  L'Oppresseur (S.Magala)
+- Blast:   Teostra's Striker (Teostra)
+- Status:  None
+[G.CB]       
+- Fire:    Propensity (S.Rathalos)
+- Water:   Ceadeus Regalia (Caedeus)
+- Ice:     Eldaora Casca (R.Kushala)
+- Thunder: Demonlord Supersurge (Rajang)
+- Dragon:  Le Salut (S.Magala)
+- Blast:   True Ruiner Reaver (Fatalis)
+- Status:  Chernobog's Scythe (S.Nerscylla)
+
+------------------------------------------------
+
+[IG] Insect Glaive
+[L.IG]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[H.IG]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+[G.IG]
+- Fire:    
+- Water:   
+- Ice:     
+- Thunder: 
+- Dragon:  
+- Blast:   
+- Status:  
+
+------------------------------------------------
