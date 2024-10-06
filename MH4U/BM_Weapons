@@ -31,9 +31,9 @@ Key:
 - Thunder: Demonlord Rod (Rajang)
 - Dragon:  Black Fatalis Blade (Fatalis)
 - Blast:   Teostra del Sol (Teostra)
-           {A} Deified Grisblade (M.Tigrex)
-- Status:  Grand Shamshir (Chameleos)
-           Ostracon Oblivion (Gogmazios)
+           Deified Grisblade {A} (M.Tigrex)
+- Status:  Grand Shamshir {P} (Chameleos)
+           Ostracon Oblivion {S} (Gogmazios)
 
 ------------------------------------------------
 
@@ -69,9 +69,9 @@ Key:
            Fatalis Zaggespanon (Fatalis)
            Chaos/Loi (C.Magala)
 - Blast:   Lightbreak Edge (Brachydios)
-- Status:  Garuga Daito (Y.Garuga)
-           Dragonwood Cutblade (Yama)
-           Headsman's Requite (Gogmazios)
+- Status:  Garuga Daito {P} (Y.Garuga)
+           Dragonwood Cutblade {Z} (Yama)
+           Headsman's Requite {S} (Gogmazios)
 
 ------------------------------------------------
 
@@ -83,7 +83,7 @@ Key:
 - Thunder: Kirin Bolt (Kirin)
 - Dragon:  Jager-Ankh (G.Magala)
 - Blast:   None/Dios Edge (Brachydios)
-- Status:  Queen Rapier (Rathian)
+- Status:  Queen Rapier {P} (Rathian)
 
 [H.SNS]                 
 - Fire:    Blazing Falchion (Rathalos)
@@ -93,7 +93,7 @@ Key:
            Rajang Club (Rajang)
 - Dragon:  Le Detecteur (S.Magala)
 - Blast:   Teostra's Spada (Teostra)
-- Status:  Royal Rose (P.Rathian)
+- Status:  Royal Rose {P} (P.Rathian)
 
 [G.SNS]                                                        
 - Fire:    Annular Sol (G.Rathian)
@@ -103,9 +103,9 @@ Key:
            Cursed Rajang Club (Rajang)
 - Dragon:  Le Limier (S.Magala)
 - Blast:   Teostra's Emblem (Teostra)
-- Status:  Kyrie Ruin (Gogmazios)
-           Coctura Balgang (Gobul)       
-           Lunatic Rose (G.Rathan)
+- Status:  Kyrie Ruin {S} (Gogmazios)
+           Coctura Balgang {Z} (Gobul)       
+           Lunatic Rose {P} (G.Rathan)
 
 ------------------------------------------------
 
@@ -134,8 +134,7 @@ Key:
 - Fire:    Wyvern Conciliation (S.Los/G.Ian)
            Megiddo Breakers (B.Gravios)
            Agnaktor Inferno (Agnaktor)
-- Water:   Blizztrios Fangs (Zamtrios)
-           Crossenders (D.Seltas)
+- Water:   Crossenders (D.Seltas)
            Jade Battlefanzers (G.Plesioth)
 - Ice:     Blizztrios Fangs (Zamtrios)
            Ritual Eidolons (Kirin/Yama)
@@ -150,8 +149,8 @@ Key:
            Twinbane Twilight (Fatalis)
 - Blast:   Twinbane Twilight (Fatalis)
            Blizzard & Blaze (Kushala/Teostra)
-- Status:  Ritual Eidolons (Kirin/Yama)
-           Jade Battlefanzers (G.Plesioth)
+- Status:  Ritual Eidolons {Z} (Kirin/Yama)
+           Jade Battlefanzers {S} (G.Plesioth)
 
 ------------------------------------------------
 
@@ -183,8 +182,8 @@ Key:
 - Dragon:  Vergehen/Naissance (C.Magala)
            Fatalis Ruiner (W.Fatalis)
 - Blast:   Lightbreak Hammer (Brachydios)
-- Status:  Desmos Admonition (Gogmazios)
-           Genie's Expanse (Chameleos)      
+- Status:  Desmos Admonition {S} (Gogmazios)
+           Genie's Expanse {P} (Chameleos)      
 
 ------------------------------------------------
 
@@ -206,15 +205,18 @@ Key:
 - Dragon:  
 - Blast:   
 - Status:  
-
-[G.HH]
-- Fire:    
-- Water:   
-- Ice:     
-- Thunder: 
-- Dragon:  
-- Blast:   
-- Status:  
+                 
+[G.HH]               
+- Raw:     Dancing Grisdrum [PRC] (M.Tigrex)
+           Maqam Sedition [PBO] (Seregios)
+- Fire:    Lunar Chordmaker [PBY] (G.Rathian)
+- Water:   Naja Alluvion [PRC] (T.Najarala)
+- Ice:     Eldaora's Taus [PBO] (R.Kushala)
+- Thunder: Denden Doomsounder [PRO] (Rajang)
+- Dragon:  Le Grégorien [PYO] (S.Magala)
+- Blast:   Teostra's Orphée [PCO] (Teostra)
+- Status:  Dragonwood Godflute {Z}[PCO] (Yama)
+           Onyx Terpsichore {S}[PRB] (Gogmazios)
 
 ------------------------------------------------
 
@@ -268,13 +270,19 @@ Key:
 - Status:  
 
 [G.GL]
-- Fire:    
-- Water:   
-- Ice:     
-- Thunder: 
-- Dragon:  
-- Blast:   
-- Status:  
+- Fire:    Eine Wahrheit [L] (S.Rathalos)
+           Luna's Sun [N] (Lunastra)
+- Water:   Amatsuhiko [N] (D.Mohran)
+           Seltas Fortitude [L] (D.Seltas)
+- Ice:     Eldaora's Brigia [N] (R.Kushala)
+           Daora's Tempest [N] (Kushala)
+- Thunder: Demonlord Gunlance [W] (Rajang)
+           Nether Jugulus [L] (A.Lagi)
+- Dragon:  True Fatalis Gunlance [N] (Fatalis)
+           W. Fatalis Gunlance [L] (W. Fatalis)
+- Blast:   Hellruin Gunlance [W] (C.Fatalis)
+           Lightbreak Gunlance [L] (Brachydios)
+- Status:  Auguring Prophet [N]{S} (Gogmazios)
 
 ------------------------------------------------
 
@@ -298,13 +306,22 @@ Key:
 - Status:  
 
 [G.SWA]
-- Fire:    
-- Water:   Illuyanka (T.Najarala)
-- Ice:     
-- Thunder: 
-- Dragon:  
-- Blast:   
-- Status:  
+- Fire:    Rathscension [P] (S.Rathalos)
+           Tatanka Talon [E] (A.Kecha)
+- Water:   Illuyanka [P] (T.Najarala)
+           Yamatsumi [E] (D.Mohran)
+- Ice:     Eldaora's Farasa [P] (R.Kushala)
+           Bitterbeast Kirin [E] (Kirin)
+- Thunder: Fatalis Force [P] (W.Fatalis)
+           Nether Excellion [E] (A.Lagi)
+- Dragon:  Doomaxe "Downpour" {A}[D] (Deviljho)
+           Frevel/Sursis [P] (C.Magala)
+           True Fatalis's End (Fatalis)
+- Blast:   Lightbreak Axe [P] (Brachydios)
+           True Ruiner's Bane [E] (C.Fatalis)
+- Status:  Waxglare Wand {P}[P] (Chameleos)
+           Zamtreacherous Maw {Z}[P] (T.Zamtrios)
+           Wicked Conqueror {S}[P] (Gogmazios)
 
 ------------------------------------------------
 
@@ -317,6 +334,7 @@ Key:
 - Dragon:  Leidenskraft (G.Magala)
 - Blast:   None/Dios Strongarm (Brachydios)
 - Status:  None
+
 [H.CB]               
 - Fire:    Hellspawn Blade (S.Rathalos)
 - Water:   Deceades (Caedeus)
@@ -325,6 +343,7 @@ Key:
 - Dragon:  L'Oppresseur (S.Magala)
 - Blast:   Teostra's Striker (Teostra)
 - Status:  None
+
 [G.CB]       
 - Fire:    Propensity (S.Rathalos)
            Luna Eostre (G.Rathian)
@@ -338,7 +357,7 @@ Key:
 - Dragon:  Elends/Essor (C.Magala)
            True Fatalis Charger (Fatalis)           
 - Blast:   True Ruiner Reaver (Fatalis)
-- Status:  Chernobog's Scythe (S.Nerscylla)
+- Status:  Chernobog's Scythe {S} (S.Nerscylla)
 
 ------------------------------------------------
 
