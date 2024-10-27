@@ -24,14 +24,12 @@ Key:
 [G.GS]     
 - Raw:     Cera Cymmetry (Diablos)
            Rogue Sedition (Seregios)
-- Fire:    Rathlord Gleamsword (S.Rathalos)
-- Water:   Plesioth Pelagis (G.Plesioth)
-- Ice:     Ukanlos Skycleaver (Ukanlos)
-           Eldaora's Death (R.Kushala)
-- Thunder: Demonlord Rod (Rajang)
+- Fire:    None
+- Water:   None
+- Ice:     Eldaora's Death (R.Kushala)
+- Thunder: None
 - Dragon:  Black Fatalis Blade (Fatalis)
-- Blast:   Teostra del Sol (Teostra)
-           Deified Grisblade {A} (M.Tigrex)
+- Blast:   Deified Grisblade [A] (M.Tigrex)
 - Status:  Grand Shamshir {P} (Chameleos)
            Ostracon Oblivion {S} (Gogmazios)
 
@@ -173,7 +171,7 @@ Key:
 - Raw:     Qadar Sedition (Seregios)
 - Fire:    Fatalis Iregard (C.Fatalis)
 - Water:   Nadeshiko (D.Mohran)
-- Ice:     Ukanlos Skysmasher (Ukanlos)
+- Ice:     Daora's Hyperborea (Kushala)
 - Thunder: Demonlord Hammer (Rajang)
 - Dragon:  Vergehen/Naissance (C.Magala)
            Fatalis Ruiner (W.Fatalis)
@@ -236,13 +234,19 @@ Key:
 - Status:  
 
 [G.LAN]
-- Fire:    
-- Water:   
-- Ice:     
-- Thunder: 
-- Dragon:  
-- Blast:   
-- Status:  
+- Raw:     Hadad Sedition (Seregios)
+           Ruthless Grislance (M.Tigrex)
+- Fire:    Immaculate Sol (S.Rathalos)
+- Water:   Cudeceus (T.Najarala)
+- Ice:     Daora's Regulus (Kushala)
+           Eldaora's Fang (R.Kushala)
+           Ukanlos Skysweeper (Ukanlos)
+- Thunder: Demonray Rajang (Rajang)
+- Dragon:  True Fatalis Lance (Fatalis)
+- Blast:   Lightbreak Lance (Brachydios)
+           True Ruiner Lance (C.Fatalis)
+- Status:  Asclepius {Z} (Najarala)
+           Aether Geghard {S} (Gogmazios)
 
 ------------------------------------------------
 
@@ -377,12 +381,14 @@ Key:
 - Status:  
 
 [G.IG]
-- Fire:    
-- Water:   
-- Ice:     
-- Thunder: 
-- Dragon:  
-- Blast:   
-- Status:  
+- Fire:    Universus (Rathalos)
+- Water:   Cannibal Happa (D.Seltas)
+- Ice:     Daora's Samudra (Kushala)
+           Ukanlos Sytraveler (Ukanlos)
+- Thunder: Fatalis Overlord (W.Fatalis)
+- Dragon:  True Fatalis Dyaus (Fatalis)
+- Blast:   Bounding Dalamadur (Dalamadur)
+- Status:  Hazy Caster {P} (Chameleos)
+           Iörovellir {Z} (T.Zamtrios)
 
 ------------------------------------------------
